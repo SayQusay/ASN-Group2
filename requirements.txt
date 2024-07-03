@@ -4,6 +4,5 @@ numpy
 matplotlib.pyplot
 streamlit_option_menu
 scipy.signal
-welch
 plotly.graph_objects
 math
